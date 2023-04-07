@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/2366
+
 n, m = map(int, input().split())
 
 absolute_positions = list(map(int, input().split()))

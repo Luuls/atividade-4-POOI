@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1961
+
 p, n = map(int, input().split())
 
 heights = list(map(int, input().split()))

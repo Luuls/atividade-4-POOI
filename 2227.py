@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/2227
+
 a, v = map(int, input().split())
 test_number = 1
 
